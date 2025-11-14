@@ -30,8 +30,8 @@ I started programming at college and kept pushing forward since then.
  
  <p align="center"
 <div> 
-  <a href="www.linkedin.com/in/kaue-andradev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
- <a href="[https://instagram.com/simplified_learner](https://www.instagram.com/kaue.andradex)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/kauê-andrade-079598350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/kaue.andradex?igsh=MXZudzJ2OXF5aGN3bQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 
 
 #
